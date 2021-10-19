@@ -1,0 +1,33 @@
+.main-container{
+    display: flex;
+    width: 500px;
+    height: auto;
+    background-color:#b4d0e7 ;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    font-family: Vivaldi;
+    font-weight: 900;
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 60px;
+}
+
+.header{
+    font-family: 'Roboto Mono';
+    margin-bottom: 0px;
+}
+
+img{
+    width: 90px;
+    height: auto;
+}
+#right{
+    margin-left: 500px;
+    padding-bottom: 80px;
+}
+#left{
+    margin-top: 100px;
+}

@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-logo {
@@ -35,4 +37,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button{
+  width: auto;
+  height: 40px;
+  background-color: white;
+  color: black;
+  font-family: 'Roboto Mono';
+  border-radius: 5px;
+  font-weight: 900;
+  cursor: pointer;
 }
